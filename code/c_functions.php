@@ -35,7 +35,7 @@ include 'dbhelper.php';
 			<li><a href="login.php">Login</a></li>
 			<li><a href="signup.php">SignUp</a></li>
 			<li><a href="contact.php">Contact</a></li>
-			<li><a href="#">About</a></li>
+			
 		</ul>
 		<div style="clear: both"></div>
 	</nav>
@@ -158,7 +158,7 @@ include 'dbhelper.php';
 
     <br>
 	<footer class="footerindex">
-		<center><font style='font-size:10px'>&copy;2018 CodeStack All Rights Reserved</font></center>
+		<center><font style='font-size:10px'>&copy;2020 CodeStack All Rights Reserved</font></center>
 	</footer>
 	
 
