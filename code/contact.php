@@ -40,7 +40,7 @@
 			    <br><br>
 		<tr>
 		<td align="left">Email: &nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td><a>javed.ansari4122@gmail.com</a></td>
+		<td><a>siddharth2808.sa@gmail.com</a></td>
 		</tr>
 			</table>
 			</center>
