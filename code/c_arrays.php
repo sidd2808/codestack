@@ -72,7 +72,7 @@ include 'dbhelper.php';
 <br>
 
 
-<div align='justify' style="margin: 0px; padding: 5px; font-size: 14px; padding-left: 7px">Input ten Elements in an Array and display it on the Output Screen.</div><center><button id='62' class='buttonclass'>Solution</button></center><div id='162' class='comments' style="overflow: scroll ;max-height: 350px; width: 100%;">
+<div align='justify' style="margin: 0px; padding: 5px; font-size: 14px; padding-left: 7px">Input ten Elements in an Array and display it on the Output Screen.</div><center><button id='62'  class='buttonclass'>Solution</button></center><div id='162' class='comments' style="overflow: scroll ;max-height: 350px; width: 100%;">
 	</div>
 	
 	<hr color='blue'>
